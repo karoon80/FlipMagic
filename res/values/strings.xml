@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlipMagic</string>
+    <string name="flip">Flip</string>
+    <string name="askMessage">Flip The Phone To</string>
+    <string name="title_activity_display_answer">Answer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="go_back">Press Back Button to Retry!</string>
+
+</resources>
